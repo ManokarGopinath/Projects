@@ -1,0 +1,103 @@
+{'text': 'I am reaching out to you because I need your\nhelp.', 'start': 0.719, 'duration': 12.784}
+{'text': 'We want to end gender inequality—and to\ndo that we need everyone to be involved.', 'start': 13.503, 'duration': 1.0}
+{'text': 'This is the first campaign of its kind at\nthe UN: we want to try and galvanize as many', 'start': 14.503, 'duration': 1.0}
+{'text': 'men and boys as possible to be advocates for\ngender equality.', 'start': 15.503, 'duration': 1.0}
+{'text': 'And we don’t just want to talk about it,\nbut make sure it is tangible.', 'start': 16.503, 'duration': 1.0}
+{'text': 'I was appointed six months ago and the more\nI have spoken about feminism the more I have', 'start': 17.503, 'duration': 3.096}
+{'text': 'realized that fighting for women’s rights\nhas too often become synonymous with man-hating.', 'start': 20.599, 'duration': 10.451}
+{'text': 'If there is one thing I know for certain,\nit is that this has to stop.', 'start': 31.05, 'duration': 8.68}
+{'text': 'For the record, feminism by definition is:\n“The belief that men and women should have', 'start': 39.73, 'duration': 9.12}
+{'text': 'equal rights and opportunities.', 'start': 48.85, 'duration': 3.61}
+{'text': 'It is the theory of the political, economic\nand social equality of the sexes.”', 'start': 52.46, 'duration': 9.66}
+{'text': 'I started questioning gender-based assumptions\nwhen at eight I was confused at being called', 'start': 62.12, 'duration': 8.1}
+{'text': '“bossy,” because I wanted to direct the\nplays we would put on for our parents—but', 'start': 70.22, 'duration': 7.58}
+{'text': 'the boys were not.', 'start': 77.8, 'duration': 2.81}
+{'text': 'When at 14 I started being sexualized by certain\nelements of the press.', 'start': 80.61, 'duration': 5.09}
+{'text': 'When at 15 my girlfriends started dropping\nout of their sports teams because they didn’t', 'start': 85.7, 'duration': 7.37}
+{'text': 'want to appear “muscly.”', 'start': 93.07, 'duration': 1.8}
+{'text': 'When at 18 my male friends were unable to\nexpress their feelings.', 'start': 94.87, 'duration': 8.52}
+{'text': 'I decided I was a feminist and this seemed\nuncomplicated to me.', 'start': 103.39, 'duration': 6.48}
+{'text': 'But my recent research has shown me that feminism\nhas become an unpopular word.', 'start': 109.87, 'duration': 18.24}
+{'text': 'Apparently I am among the ranks of women whose\nexpressions are seen as too strong, too aggressive,', 'start': 128.11, 'duration': 12.82}
+{'text': 'isolating, anti-men and, unattractive.', 'start': 140.93, 'duration': 7.71}
+{'text': 'Why is the word such an uncomfortable one?', 'start': 148.64, 'duration': 7.69}
+{'text': 'I am from Britain and think it is right that\nas a woman I am paid the same as my male counterparts.', 'start': 156.33, 'duration': 8.83}
+{'text': 'I think it is right that I should be able\nto make decisions about my own body.', 'start': 165.16, 'duration': 6.159}
+{'text': 'I think it is right that women be involved', 'start': 171.319, 'duration': 3.461}
+{'text': 'on my behalf in the policies and decision-making\nof my country.', 'start': 174.78, 'duration': 6.62}
+{'text': 'I think it is right that socially I am afforded\nthe same respect as men.', 'start': 181.4, 'duration': 9.22}
+{'text': 'But sadly I can say that there is no one country\nin the world where all women can expect to', 'start': 190.62, 'duration': 9.69}
+{'text': 'receive these rights.', 'start': 200.31, 'duration': 3.23}
+{'text': 'No country in the world can yet say they have\nachieved gender equality.', 'start': 203.54, 'duration': 5.31}
+{'text': 'These rights I consider to be human rights\nbut I am one of the lucky ones.', 'start': 208.85, 'duration': 1.0}
+{'text': 'My life is a sheer privilege because my parents\ndidn’t love me less because I was born a', 'start': 209.85, 'duration': 1.0}
+{'text': 'daughter.', 'start': 210.85, 'duration': 1.0}
+{'text': 'My school did not limit me because I was a\ngirl.', 'start': 211.85, 'duration': 1.0}
+{'text': 'My mentors didn’t assume I would go less\nfar because I might give birth to a child', 'start': 212.85, 'duration': 1.0}
+{'text': 'one day.', 'start': 213.85, 'duration': 1.0}
+{'text': 'These influencers were the gender equality\nambassadors that made me who I am today.', 'start': 214.85, 'duration': 1.0}
+{'text': 'They may not know it, but they are the inadvertent\nfeminists who are changing the world today.', 'start': 215.85, 'duration': 1.0}
+{'text': 'And we need more of those.', 'start': 216.85, 'duration': 1.0}
+{'text': 'And if you still hate the word—it is not\nthe word that is important but the idea and', 'start': 217.85, 'duration': 1.0}
+{'text': 'the ambition behind it.', 'start': 218.85, 'duration': 1.0}
+{'text': 'Because not all women have been afforded the\nsame rights that I have.', 'start': 219.85, 'duration': 1.0}
+{'text': 'In fact, statistically, very few have been.', 'start': 220.85, 'duration': 1.0}
+{'text': 'In 1995, Hilary Clinton made a famous speech\nin Beijing about women’s rights.', 'start': 221.85, 'duration': 1.0}
+{'text': 'Sadly many of the things she wanted to change\nare still a reality today.', 'start': 222.85, 'duration': 1.0}
+{'text': 'But what stood out for me the most was that\nonly 30 per cent of her audience were male.', 'start': 223.85, 'duration': 1.0}
+{'text': 'How can we affect change in the world when\nonly half of it is invited or feel welcome', 'start': 224.85, 'duration': 1.0}
+{'text': 'to participate in the conversation?', 'start': 225.85, 'duration': 1.0}
+{'text': 'Men—I would like to take this opportunity\nto extend your formal invitation.', 'start': 226.85, 'duration': 1.0}
+{'text': 'Gender equality is your issue too.', 'start': 227.85, 'duration': 1.0}
+{'text': 'Because to date, I’ve seen my father’s\nrole as a parent being valued less by society', 'start': 228.85, 'duration': 1.0}
+{'text': 'despite my needing his presence as a child\nas much as my mother’s.', 'start': 229.85, 'duration': 1.0}
+{'text': 'I’ve seen young men suffering from mental\nillness unable to ask for help for fear it', 'start': 230.85, 'duration': 1.0}
+{'text': 'would make them look less “macho”—in\nfact in the UK suicide is the biggest killer', 'start': 231.85, 'duration': 1.0}
+{'text': 'of men between 20-49 years of age; eclipsing\nroad accidents, cancer and coronary heart', 'start': 232.85, 'duration': 1.0}
+{'text': 'disease.', 'start': 233.85, 'duration': 1.0}
+{'text': 'I’ve seen men made fragile and insecure\nby a distorted sense of what constitutes male', 'start': 234.85, 'duration': 1.0}
+{'text': 'success.', 'start': 235.85, 'duration': 1.0}
+{'text': 'Men don’t have the benefits of equality\neither.', 'start': 236.85, 'duration': 1.0}
+{'text': 'We don’t often talk about men being imprisoned\nby gender stereotypes but I can see that that', 'start': 237.85, 'duration': 1.0}
+{'text': 'they are and that when they are free, things\nwill change for women as a natural consequence.', 'start': 238.85, 'duration': 1.0}
+{'text': 'If men don’t have to be aggressive in order\nto be accepted women won’t feel compelled', 'start': 239.85, 'duration': 1.0}
+{'text': 'to be submissive.', 'start': 240.85, 'duration': 1.0}
+{'text': 'If men don’t have to control, women won’t\nhave to be controlled.', 'start': 241.85, 'duration': 1.0}
+{'text': 'Both men and women should feel free to be\nsensitive.', 'start': 242.85, 'duration': 1.0}
+{'text': 'Both men and women should feel free to be\nstrong…', 'start': 243.85, 'duration': 1.0}
+{'text': 'It is time that we all perceive gender on\na spectrum not as two opposing sets of ideals.', 'start': 244.85, 'duration': 1.0}
+{'text': 'If we stop defining each other by what we\nare not and start defining ourselves by what', 'start': 245.85, 'duration': 1.0}
+{'text': 'we are—we can all', 'start': 246.85, 'duration': 1.0}
+{'text': 'be freer and this is what HeForShe is about.', 'start': 247.85, 'duration': 1.0}
+{'text': 'It’s about freedom.', 'start': 248.85, 'duration': 1.0}
+{'text': 'I want men to take up this mantle.', 'start': 249.85, 'duration': 1.0}
+{'text': 'So their daughters, sisters and mothers can\nbe free from prejudice but also so that their', 'start': 250.85, 'duration': 1.0}
+{'text': 'sons have permission to be vulnerable and\nhuman too—reclaim those parts of themselves', 'start': 251.85, 'duration': 1.0}
+{'text': 'they abandoned and in doing so be a more true\nand complete version of themselves.', 'start': 252.85, 'duration': 1.0}
+{'text': 'You might be thinking who is this Harry Potter\ngirl?', 'start': 253.85, 'duration': 1.0}
+{'text': 'And what is she doing up on stage at the UN.', 'start': 254.85, 'duration': 1.0}
+{'text': 'It’s a good question and trust me, I have\nbeen asking myself the same thing.', 'start': 255.85, 'duration': 1.0}
+{'text': 'I don’t know if I am qualified to be here.', 'start': 256.85, 'duration': 1.0}
+{'text': 'All I know is that I care about this problem.', 'start': 257.85, 'duration': 1.0}
+{'text': 'And I want to make it better.', 'start': 258.85, 'duration': 1.0}
+{'text': 'And having seen what I’ve seen—and given\nthe chance—I feel it is my duty to say something.', 'start': 259.85, 'duration': 1.0}
+{'text': 'English Statesman Edmund Burke said: “All\nthat is needed for the forces of evil to triumph', 'start': 260.85, 'duration': 1.0}
+{'text': 'is for enough good men and women to do nothing.”', 'start': 261.85, 'duration': 1.0}
+{'text': 'In my nervousness for this speech and in my\nmoments of doubt I’ve told myself firmly—if', 'start': 262.85, 'duration': 1.0}
+{'text': 'not me, who, if not now, when.', 'start': 263.85, 'duration': 1.0}
+{'text': 'If you have similar doubts when opportunities\nare presented to you I hope those words might', 'start': 264.85, 'duration': 1.0}
+{'text': 'be helpful.', 'start': 265.85, 'duration': 1.0}
+{'text': 'Because the reality is that if we do nothing\nit will take 75 years, or for me to be nearly', 'start': 266.85, 'duration': 1.0}
+{'text': 'a hundred before women can expect to be paid\nthe same as men for the same work.', 'start': 267.85, 'duration': 1.0}
+{'text': '15.5 million girls will be married in the\nnext 16 years as children.', 'start': 268.85, 'duration': 1.0}
+{'text': 'And at current rates it won’t be until 2086\nbefore all rural African girls will be able', 'start': 269.85, 'duration': 1.0}
+{'text': 'to receive a secondary education.', 'start': 270.85, 'duration': 1.0}
+{'text': 'If you believe in equality, you might be one\nof those inadvertent feminists I spoke of', 'start': 271.85, 'duration': 1.0}
+{'text': 'earlier.', 'start': 272.85, 'duration': 1.0}
+{'text': 'And for this I applaud you.', 'start': 273.85, 'duration': 1.0}
+{'text': 'We are struggling for a uniting word but the\ngood news is we have a uniting movement.', 'start': 274.85, 'duration': 1.0}
+{'text': 'It is called HeForShe.', 'start': 275.85, 'duration': 1.0}
+{'text': 'I am inviting you to step forward, to be seen\nto speak up, to be the "he" for "she".', 'start': 276.85, 'duration': 1.0}
+{'text': 'And to ask yourself if not me, who?', 'start': 277.85, 'duration': 1.0}
+{'text': 'If not now, when?', 'start': 278.85, 'duration': 1.0}
+{'text': 'Thank you.', 'start': 279.85, 'duration': 0.002}
