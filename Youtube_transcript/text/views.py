@@ -45,13 +45,20 @@ def audio_conversion(request):
         duration = frames / float(rate)
         total_duration = math.ceil(duration / 60)
         r = sr.Recognizer()
+    file1 = open("./media/file/sample.txt","w")
+    file1.truncate(0)
+    file1.close()
     for i in range(0, total_duration):
         with sr.AudioFile(transcribed_audio_file_name) as source:
             audio = r.record(source, offset=i*60, duration=60)
-            f = open("./media/file/sample.txt", "a")
-            f.write(r.recognize_google(audio))
-            f.write(" ")
-    f.close()
+            with open("./media/file/sample.txt", "a") as f:
+                f.write(r.recognize_google(audio))
+                print(r.recognize_google(audio))
+                f.write(" ")
+            f.close()
+                
+    
+
     return render(request, 'file.html', { 'linkdocuments': linkdocuments })
 
 def file_upload(request):
